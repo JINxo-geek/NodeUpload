@@ -10,6 +10,6 @@ nodejs的web应用，应用虽小，但是也有很多技术点：
 使用了外部模块node-formidabl，需要安装
 
 ```bash
-node install formidable
+npm install formidable
 ```
 
